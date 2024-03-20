@@ -1186,4 +1186,5 @@
 - [Cj3 vipinsingh](https://github.com/534118306)
 - [Erman Celik](https://github.com/celikerman)
 - [YasanLakmalH](https://github.com/YasanLakmalH)
+- [Joshua Cornett](https://github.com/joshua-cornett)
 <!-- prettier-ignore-end -->
